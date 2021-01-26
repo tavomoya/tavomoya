@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Software Developer with more than 4 years of experience working with web technologies such as Node, Angular, Go and React.I'm a tech enthusiastic overall, excited about new tendencies and innovations on the tech environment.
+I am a Software Developer with more than 6 years of experience working with web technologies such as Node, Angular, Go and React.I'm a tech enthusiastic overall, excited about new tendencies and innovations on the tech environment.
 
 ### Tech I'm currently using
 
