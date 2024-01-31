@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I am a Software Developer with more than 6 years of experience working with web technologies such as Node, Angular, Go and React.I'm a tech enthusiastic overall, excited about new tendencies and innovations on the tech environment.
+I am a Software Developer with more than 9 years of experience working with web technologies such as Node, Angular, Go and React. I'm a tech enthusiast overall, excited about new tendencies and innovations on the tech environment.
 
 ### Tech I'm currently using
 
-- Backend: Go, Node, Docker, Postgres, MongoDB
-- Frontend: HTML/CSS/JavaScript, React, Angular
+- Backend: Kotlin, Go, Node, Docker, Postgres, MongoDB
+- Frontend: Nothing at the moment
 
 <!--
 **tavomoya/tavomoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
